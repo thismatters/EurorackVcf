@@ -61,3 +61,10 @@ There are part numbers in the [BOM](moog-vcf.csv) for many of the parts (not for
 * [Love My Switches](https://lovemyswitches.com/): Has [really good knobs](https://lovemyswitches.com/anodized-aluminum-knob-the-lo-fi-1-4-smooth-shaft-12-5mm-od/) to go on those potentiometers!
 * [OSHPark](https://oshpark.com/): Fast and (relatively) cheap PCB manufacturer. I haven't done a prototype run yet... stay tuned.
 
+
+## Known Bugs
+
+### v0
+
+* Vias on Q5 (B1 and B2) block pads. (doesn't prohibit function)
+* C8 hole pitch too narrow (should be 3mm)
